@@ -1,0 +1,12 @@
+hello world
+chunking logic
+
+registration payload
+
+download logic
+
+the condition that prints “No peers found”
+
+hash mismatch
+
+reassembly logic
